@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
-    <remote name="sheldongao" fetch="git://localhost/" />
+    <remote name="sheldongao" fetch="git://localhost/"/>
     <default remote="sheldongao" revision="master"/>
     <project path="local_hello" name="books"/>
-    <project path="/xxx/bbb" name="repo_test"/>
+    <project path="bbb" name="repo_test"/>
 </manifest>
