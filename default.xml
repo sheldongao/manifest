@@ -3,6 +3,6 @@
 <manifest>
     <remote name="sheldongao" fetch="git://localhost/" />
     <default remote="sheldongao" revision="master"/>
-    <project path="local_hello" name="helo"/>
-    <project path="/xxx/bbb" name="bbb"/>
+    <project path="local_hello" name="books"/>
+    <project path="/xxx/bbb" name="repo_test"/>
 </manifest>
