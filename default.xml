@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
-    <remote name="sheldongao" fetch="https://github.com/sheldongao/"/>
+    <remote name="remote_name_test" fetch="https://github.com/sheldongao/"/>
     <default remote="sheldongao" revision="master"/>
     <project path="local_books" name="books"/>
     <project path="local_repo_test" name="repo_test"/>
