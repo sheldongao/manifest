@@ -2,6 +2,6 @@
 <manifest>
     <remote name="sheldongao" fetch="https://github.com/sheldongao/"/>
     <default remote="sheldongao" revision="master"/>
-    <project path="local_books" name="books" revision='ref/tags/v0.1'/>
+    <project path="local_books" name="books"/>
     <project path="local_repo_test" name="repo_test" revision='dev'/>
 </manifest>
